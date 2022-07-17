@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📙 C++ and Python
-- 🌱 currently learning ML
+- 🌱 currently learning RL
 - 🎷 love saxophone, love music
 - 🏓 also a ping-pong lover
 

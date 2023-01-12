@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 📙 C++ and Python
-- 🌱 currently learning Coq ([CS2612](https://github.com/ZiqinGong/CS2612-PLaC))
+- 🌱 currently learning RL
+- 🔭 currently working on Offline RL
 - 🎷 love saxophone, love music
 - 🏓 also a ping-pong lover
 

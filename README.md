@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📙 C++ and Python
-- 🌱 currently learning RL
-- 🔭 currently working on Offline RL
+- 📙 Python, Rust and R
+- 🌱 currently learning Sanskrit
+- 🔭 currently working on RL
 - 🎷 love saxophone, love music
 - 🏓 also a ping-pong lover
 

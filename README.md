@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📙 Python, Rust and R
-- 🌱 currently learning Sanskrit
+- 📙 Python, Rust and Swift
+- 🌱 currently learning Sanskrit (नमस्ते!)
 - 🔭 currently working on RL
 - 🎷 love saxophone, love music
 - 🏓 also a ping-pong lover

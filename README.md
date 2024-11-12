@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C573%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C573%20hrs%2023%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-248.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Other                    4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
 Org                      4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
@@ -47,5 +47,4 @@ Mac                      4 hrs 4 mins        ████████░░░�
 ```
 
 
- Last Updated on 12/11/2024 05:58:16 UTC
 <!--END_SECTION:waka-->

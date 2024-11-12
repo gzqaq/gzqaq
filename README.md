@@ -22,36 +22,28 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C573%20hrs%203%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 21.8 kB Used in GitHub's Storage 
- > 
-> 🏆 622 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I Mostly Code in Python** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-Python                   19 repos            ████████████░░░░░░░░░░░░░   47.50 % 
-SCSS                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
+Org                      4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
+Python                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+🔥 Editors: 
+Emacs                    12 hrs 15 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    8 hrs 11 mins       █████████████████░░░░░░░░   66.81 % 
+Mac                      4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.19 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gzqaq/gzqaq/main/assets/bar_graph.png)
-
-
- Last Updated on 12/11/2024 05:50:07 UTC
+ Last Updated on 12/11/2024 05:58:16 UTC
 <!--END_SECTION:waka-->

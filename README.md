@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Racket                   38 mins             █████████████░░░░░░░░░░░░   51.54 % 
-Python                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Emacs Lisp               14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Org                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Racket                   38 mins             ████████████░░░░░░░░░░░░░   49.88 % 
+Python                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Emacs Lisp               14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Org                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 🔥 Editors: 
-Emacs                    1 hr 14 mins        █████████████████████████   100.00 % 
+Emacs                    1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 

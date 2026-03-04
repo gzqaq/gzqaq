@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Org                      18 mins             ██████████████████░░░░░░░   73.65 % 
-Other                    6 mins              ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Org                      28 mins             ████████████████████░░░░░   80.87 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 
 🔥 Editors: 
-Emacs                    25 mins             █████████████████████████   100.00 % 
+Emacs                    34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      34 mins             █████████████████████████   100.00 % 
 ```
 
 

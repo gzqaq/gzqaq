@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       ████████████░░░░░░░░░░░░░   47.28 % 
-Markdown                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Python                   4 hrs 46 mins       ██████████████░░░░░░░░░░░   56.93 % 
+Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-Emacs                    7 hrs 43 mins       █████████████████████████   100.00 % 
+Emacs                    8 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 

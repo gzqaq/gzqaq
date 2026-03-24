@@ -24,23 +24,5 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Org                      2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-Python                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Racket                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-
-🔥 Editors: 
-Emacs                    7 hrs 41 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    6 hrs 12 mins       ████████████████████░░░░░   80.74 % 
-Mac                      1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-```
-
 
 <!--END_SECTION:waka-->

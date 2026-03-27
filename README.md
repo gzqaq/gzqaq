@@ -28,18 +28,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Org                      5 hrs 44 mins       ███████████████░░░░░░░░░░   58.24 % 
-Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Racket                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Emacs Lisp               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Org                      5 hrs 57 mins       █████████████████░░░░░░░░   66.66 % 
+Racket                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Emacs Lisp               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Emacs                    9 hrs 52 mins       █████████████████████████   100.00 % 
+Emacs                    8 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 26 mins       ██████████████░░░░░░░░░░░   55.09 % 
-Linux                    4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+Mac                      6 hrs 15 mins       █████████████████░░░░░░░░   69.91 % 
+Linux                    2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
 ```
 
 

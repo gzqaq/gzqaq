@@ -28,18 +28,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Docker                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Org                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-SSH Config               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Bash                     1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Docker                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Org                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+SSH Config               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 🔥 Editors: 
-Emacs                    7 hrs 42 mins       █████████████████████████   100.00 % 
+Emacs                    7 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 57 mins       ████████████████░░░░░░░░░   64.30 % 
-Mac                      2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+Linux                    4 hrs 57 mins       ████████████████░░░░░░░░░   64.23 % 
+Mac                      2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
 ```
 
 

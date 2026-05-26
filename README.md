@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Org                      12 hrs 41 mins      ███████████████░░░░░░░░░░   60.46 % 
-Markdown                 3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Emacs Lisp               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Org                      12 hrs 50 mins      ███████████████░░░░░░░░░░   59.45 % 
+Markdown                 4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Emacs Lisp               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Emacs                    20 hrs 58 mins      █████████████████████████   100.00 % 
+Emacs                    21 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 

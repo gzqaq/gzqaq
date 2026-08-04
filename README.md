@@ -30,23 +30,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-SSH Config               25 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
-Other                    20 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Org                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Racket                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+SSH Config               25 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+Other                    20 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Racket                   13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Org                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 
 🔥 Editors: 
-Emacs                    54 mins             ██████████████████░░░░░░░   70.12 % 
-VS Code                  23 mins             ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Emacs                    44 mins             █████████████████░░░░░░░░   66.10 % 
+VS Code                  22 mins             ████████░░░░░░░░░░░░░░░░░   33.90 % 
 
 💻 Operating System: 
-Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (57.2%)
+⏱ AI Coding Time: 44 mins (65.43%)
 
 ✍️ 79 lines written by AI, 2 lines written by hand (97.53% AI-written)
 
@@ -54,13 +54,13 @@ Mac                      1 hr 18 mins        ███████████�
 
 💵 $58.64 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 6 AI Sessions, 32 AI Prompts
 
 GPT                      157 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.53% of written lines came from AI
-📚 Verbose Prompter — average 7,507 characters per prompt
+📚 Verbose Prompter — average 7,741 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
